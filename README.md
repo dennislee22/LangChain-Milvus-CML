@@ -66,3 +66,6 @@ CAPACITY  ACCESS    STATUS    NAME
 <img width="1407" alt="image" src="https://github.com/dennislee22/langchain-milvus/assets/35444414/b19983dd-0a06-4338-818e-3adbdb493ec1">
 
 <img width="1412" alt="image" src="https://github.com/dennislee22/langchain-milvus/assets/35444414/7a989057-3a00-435f-a000-c11518aec89d">
+
+<img width="740" alt="image" src="https://github.com/dennislee22/langchain-milvus/assets/35444414/ad90312f-76ab-4bd1-b716-da412e0ec29b">
+
