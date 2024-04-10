@@ -1,0 +1,7 @@
+langchain
+torch
+sentence-transformers
+ipywidgets
+pypdf
+llama-cpp-python
+bpytop
