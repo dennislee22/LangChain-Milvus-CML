@@ -60,7 +60,7 @@ CAPACITY  ACCESS    STATUS    NAME
 - CML is yet another cloud-native AI platform, leveraging K8s technologies such as Openshift and RKE2. It can handle multiple data scientists' requests by spinning up dedicated user namespaces, preventing noisy neighbour problems. In this case, I spin up a Jupyter Notebook session without GPU to run the LangChain framework with Python3.10 on the Ubuntu20.04 OS image. Because CML is a multi-user AI platform, it is supported by the RWX storage for allowing different users to share the same project files for collaboration purposes.
 
 ### RetrievalQA Chain
-- Now that I have both vector DB and LangChain framework running, let's build a RetrievalQA chain use case - user as the financial analyst wants to inquire about the financial status of a company using natural language. The full iPython code running on CML is illustrated here.
+- Now that I have both vector DB and LangChain framework running, let's build a RetrievalQA chain use case - user as the financial analyst wants to inquire about the financial status of a company using natural language. The full iPython code running on CML is illustrated [code](langchain-milvus.py).
 
 ### Prerequisites
 a. Install the necessary python modules.
